@@ -1,0 +1,3 @@
+Given satellite positions and an initial location estimate, this program attempts to improve the position estimate via gradient descent, implemented naively as well as with a Gauss-Newton algorithm. See tkok_GPS.pdf for writeup.
+
+Written for ECE 174 at UCSD, Fall 2010 quarter.
